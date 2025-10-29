@@ -9,5 +9,3 @@ Hello, I'm Chris H. I am a Computer Science and Electrical Engineering student. 
 |     3|   Cassettes   |
 
 📫 How to reach me: hchris@hchris.dev
-
-🔗 Visit my website: [hchris.dev](hchris.dev)
