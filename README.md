@@ -1,6 +1,6 @@
 ## Hey There! 🙌
 
-Hello, I'm Chris H. I am a Computer Science and Electrical Engineering student. Currently, I know C++ and I am learning Python. I hope to share personal projects as well as contribute to other's projects.
+Hello, I'm Chris H. I am a Computer Science and Electrical Engineering student. Currently, I know C++ and I am learning Python and MATLAB. I hope to share personal projects as well as contribute to other's projects.
 
 | Rank |    Hobbies    |
 |-----:|---------------|
